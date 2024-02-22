@@ -4,7 +4,7 @@
     }
 
     .banner{
-        background-image: url(/images/Banner\ Image.png);
+        background-image: url(../images/Banner\ Image.png);
         background-repeat: no-repeat;
         background-size: cover;
         padding: 200px;
@@ -49,7 +49,7 @@
      }
       
      .party{
-        background-image: url(/images/Vectorrr.png);
+        background-image: url(../images/Vectorrr.png);
         background-repeat: no-repeat;
         background-size: cover;
         padding:200px ;
@@ -210,212 +210,24 @@
        color: beige;
     
  }
-.banner{
-    background-image: url(/images/Banner\ Image.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 200px;
-    text-align: center;
-    
+ 
+
+
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
    
-
-}
-.banner-tittle{
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 0px;
-    color: beige;
-}
-.banner-description{
-    font-weight: 700;
-    font-size: 65px;
-    line-height: 56px;
-    color:#ffff;
-  
- }
- .discount-container{
-   text-align: center;
- }
- .discount-tittle{
-    font-weight: 700;
-    font-size: 65px;
-     color: red;
- 
- }
- .discount-description{
-    font-weight: 150;
-    font-size: 20px;
-     color: red;
- 
- }
- .discount-category{
-    font-weight: 600;
-    font-size: 45px;
-     color:black;
- 
- }
-  
- .party{
-    background-image: url(/images/Vectorrr.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding:200px ;
-    margin-top: 100px;
     
- }
- .new-year{
-   margin-left: 60%;
- }
- .party-tittle{
-    font-weight: 600;
-    font-size: 45px;
-    color: #ffff;
-
- }
- .party-details{
-    color: azure;
- }
- .party-info{
-    font-weight: 350;
-    font-size: 35px;
-    text-align: center;
-    color:black;
-    background-image: linear-gradient(to bottom,pink,white);
-    background-size: cover;
-    padding:200px ;
-    margin-top: 95px;
-
- }
- .text{
-   color: red;
- }
-  
- .btn{
-    font-size: 20px;
-    padding: 15px 32px;
-    color:white;
-    background-color: red;
-    border: none;
-    border-radius: 8px;
- }
- .offer{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 80px;
- }
- .ellipse{
-   border: round;
- }
- .offer-tittle{
-   font-weight: 500px;
-   font-size: 35px;
-   color: red;
- }
- .offer-text{
-   font-weight: 600px;
-   font-size: 45px;
-   color:black;
- }
- .offer-details{
-   font-weight: 100px;
-   font-size: 25px;
-   color: darkgrey;
- }
- .year{
-   font-weight: 700px;
-   font-size: 85px;
-   color: red;
- }
- .year-details{
-   font-weight: 100px;
-   font-size: 25px;
-   color: darkgrey;
- }
- .gifts{
-   font-weight: 500px;
-   font-size: 35px;
-   color: red;
- }
- .gifts-tittle{
-   font-weight: 700px;
-   font-size: 55px;
-   color:black;
- }
- .gifts-details{
-   font-weight: 100px;
-   font-size: 25px;
-   color: darkgrey;
- }
-   
-  
- .portfolio-container{
-    display: flex;
-    gap: 40px;
-    margin-top: 40px;
     
 
 
- }
- .portfolio-another{
-   display: flex;
-  gap: 40px;
-   margin-top: 30px;
+ 
 
 
- }
- .products:hover{
-  -webkit-transform: scale(1.5);
-  transform: scale(1.5);
-  -webkit-transition: .3s ease-in-out;
-  transition: .3s ease-in-out;
-}
- .subscription{
-    background-color:pink;
-    padding: 200px;
-    text-align: center;
-    margin-top: 100px;
- }
- .letter{
-   font-weight: 500px;
-   font-size: 35px;
-   color: black;
- }
- .letter-details{
-   font-weight: 100px;
-   font-size: 25px;
-   color: black;
- }
- .value{
-   font-size: 20px;
-   padding: 15px 32px;
-   color:darkgray;
-   background-color:white;
-   border: none;
-   border-radius: 10px;
- }
- .footer{
-    background-color: black;
-    padding: 200px;
-    margin-top: 40px;
- }
- .location{
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   font-weight: 100;
-   font-size: 15px;
-   color: beige;
-    
- }
- .social-contact{
-   text-align: center;
- }
- .footer-end{
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   font-weight: 100;
-   font-size: 15px;
-   color: beige;
- }
+  
